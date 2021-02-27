@@ -1,7 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,400&display=swap");
+
 .content {
   max-width: 960px;
   margin: auto;
   text-align: center;
+  font-family: "Montserrat", sans-serif;
 }
 body {
   background-color: #edf6f9;
@@ -19,4 +22,10 @@ table {
 }
 ul {
   list-style-position: inside;
+}
+h1 {
+  color: #e29578;
+}
+h3 {
+  color: #e29578;
 }
