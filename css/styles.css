@@ -14,6 +14,12 @@ hr {
   border-top: 5px dotted #006d77;
   width: 10%;
 }
+/* Pseudo classes have a : in front, they adjust the CSS of a HTML element
+based on its state
+*/
+img:hover {
+  mix-blend-mode: multiply;
+}
 img {
   width: 200px;
 }
